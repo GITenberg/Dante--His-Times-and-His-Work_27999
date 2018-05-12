@@ -1,0 +1,31 @@
+_repo: Dante--His-Times-and-His-Work_27999
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Butler, Arthur John
+    alias: Butler, A. J. (Arthur John)
+    birthdate: 1844
+    deathdate: 1910
+    gutenberg_agent_id: '33066'
+    url: http://www.gutenberg.org/2009/agents/33066
+description: ''
+gutenberg_issued: '2009-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27999'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dante Alighieri, 1265-1321'
+- !lcc 'PQ'
+tableOfContents: The thirteenth century -- Guelfs and Ghibelines -- Dante's early
+  days -- Florentine affairs till Dante's exile -- Dante's exile -- The "Commedia"
+  -- The minor works -- Appendix I. Some hints to beginners -- Appendix II. Dante's
+  use of classical literature.
+title: 'Dante: His Times and His Work'
+url: http://www.gutenberg.org/ebooks/27999
